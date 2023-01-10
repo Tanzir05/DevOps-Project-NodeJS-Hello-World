@@ -1,4 +1,3 @@
-# DevOps-Project-NodeJS-Hello-World
 # Containerization of a NodeJS App
 
 ## Step 1
